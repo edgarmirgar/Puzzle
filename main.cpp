@@ -12,7 +12,8 @@ void displayState( int X[3])
 int main()
 {
 	int itemSide[3] = {-1,1,-1};	
-	displayState( itemSide );	
+	displayState( itemSide );
+	std::<<testing with github<<std::endl;
 	return 0;
 
 }
